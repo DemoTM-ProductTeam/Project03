@@ -1,0 +1,1 @@
+TM_Portfolio là một data analyst portfolio được xây dựng nhằm thể hiện đầy đủ năng lực phân tích dữ liệu theo chuẩn business-oriented analytics, không chỉ dừng ở kỹ thuật mà tập trung vào ra quyết định và tác động kinh doanh.
